@@ -1,0 +1,53 @@
+body {
+  text-align: center;
+}
+
+.letters {
+    background-color: #337ab7;
+    width: 40px;
+    height: 40px;
+    padding: 15px;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    border-radius: 4px;
+    color: white;
+    font-style: arial;
+    font-size: 30px;
+}
+
+.form {
+  margin-top: 50px;
+}
+
+.container {
+  content-align: center;
+  vertical-align: center;
+}
+
+.champ {
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.btn {
+
+}
+
+input[type=submit] {
+  text-decoration: none;
+  padding: 21px;
+  margin-top: 20px;
+  border: none;
+  background-color: #337ab7;
+  color:white;
+  font-style: arial;
+  font-size: 15px;
+
+}
+
+input[type=text] {
+  font-style: arial;
+  font-size: 14px;
+
+}
